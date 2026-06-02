@@ -104,25 +104,10 @@ Run the project:
 python sales_forecast.py
 
 
-
-## Project Structure
-
-sales-forecasting-project
-│
-├── datasets
-│   └── Sample - Superstore.csv
-│
-├── visuals
-│   ├── sales_trend.png
-│   ├── predicted_sales.png
-│   └── future_forecast.png
-│
-├── sales_forecast.py
-├── requirements.txt
-└── README.md
-
-
  
 ## Author
 
+samsritha
+
+B.Tech Student | Machine Learning Intern
 Created as part of a Machine Learning Sales Forecasting Internship Project.
